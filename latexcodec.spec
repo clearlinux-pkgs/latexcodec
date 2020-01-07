@@ -4,7 +4,7 @@
 #
 Name     : latexcodec
 Version  : 1.0.7
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/c7/5c/00275a2b575d1e3a30fbe6a7cd8fadd391010a0e7cd8e484c8c0be9a6ab0/latexcodec-1.0.7.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c7/5c/00275a2b575d1e3a30fbe6a7cd8fadd391010a0e7cd8e484c8c0be9a6ab0/latexcodec-1.0.7.tar.gz
 Summary  : A lexer and codec to work with LaTeX code in Python.
