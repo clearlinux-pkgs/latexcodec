@@ -1,5 +1,5 @@
 PKG_NAME := latexcodec
-URL = https://files.pythonhosted.org/packages/bc/cf/ead5e88a8cf2e66c673b1871ee78012d8b2ea9ce5ac85e441ef66790c418/latexcodec-2.0.0.tar.gz
+URL = https://files.pythonhosted.org/packages/84/2f/fd47712130b303ff179c819cc5c63aa39586fc8d430bc299c0f5f56ec42c/latexcodec-2.0.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
